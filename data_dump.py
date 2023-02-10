@@ -4,6 +4,7 @@ import json
 
 from project_files.config import mongo_client
 
+
 DATA_FILE_PATH="/config/workspace/UCI_Credit_Card.csv"
 DATABASE_NAME="credit_card"
 COLLECTION_NAME="defaulter"
