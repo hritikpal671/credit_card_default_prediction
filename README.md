@@ -83,7 +83,6 @@ sudo sh get-docker.sh
 sudo usermod -aG docker ubuntu
 newgrp docker
 ```
-
 ```
 
 AWS_ACCESS_KEY_ID=
