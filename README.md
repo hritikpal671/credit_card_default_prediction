@@ -31,6 +31,7 @@ Note: This is going to initalize git in your source code.
 
 OR
 
+
 You can clone exiting github repo
 ```
 git clone <github_url>
@@ -83,6 +84,7 @@ sudo sh get-docker.sh
 sudo usermod -aG docker ubuntu
 newgrp docker
 ```
+
 
 ```
 
