@@ -1,3 +1,4 @@
+###SOME IMPORTANT STEPS TO REMEMBER
 
 ### Step 1 - Install the requirements
 
@@ -9,18 +10,8 @@ pip install -r requirements.txt
 
 ```bash
 python main.py
-```
-
-
-To download your dataset
 
 ```
-wget https://raw.githubusercontent.com/avnyadav/sensor-fault-detection/main/aps_failure_training_set1.csv
-```
-
-This is changes made in neuro lab
-
-
 Git commands
 
 If you are starting a project and you want to use git in your project
