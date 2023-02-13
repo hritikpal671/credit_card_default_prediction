@@ -1,5 +1,6 @@
 ###SOME IMPORTANT STEPS TO REMEMBER
 
+
 ### Step 1 - Install the requirements
 
 ```bash
@@ -10,8 +11,10 @@ pip install -r requirements.txt
 
 ```bash
 python main.py
-
 ```
+
+
+
 Git commands
 
 If you are starting a project and you want to use git in your project
