@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 print(f"Loading environment variable from .env file")
 load_dotenv()
 
-DATA_FILE_PATH="/config/workspace/UCI_Credit_Card.csv"
+DATA_FILE_PATH="D:\Projects\credit_card_default_prediction\UCI_Credit_Card.csv"
 DATABASE_NAME="credit_card"
 COLLECTION_NAME="defaulter"
 

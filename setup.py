@@ -18,10 +18,10 @@ def get_requirements()->List[str]:
 
 
 setup(
-    name="sensor",
+    name="project_files",
     version="0.0.2",
-    author="ineuron",
-    author_email="avnish@ineuron.ai",
+    author="hritik",
+    author_email="hritikpal671@gmail.com",
     packages = find_packages(),
     install_requires=get_requirements(),
 )
